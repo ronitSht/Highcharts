@@ -1,0 +1,2 @@
+# Highcharts
+Highcharts - graphs visualization
